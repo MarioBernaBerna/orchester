@@ -1,0 +1,26 @@
+{
+  "name": "practica_3",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/MarioBernaBerna/practica3_sistemas#readme",
+  "bugs": {
+    "url": "https://github.com/MarioBernaBerna/practica3_sistemas/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarioBernaBerna/practica3_sistemas.git"
+  },
+  "license": "ISC",
+  "author": "mario",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "mongodb": "^7.0.0",
+    "mongoose": "^8.20.0"
+  }
+}
